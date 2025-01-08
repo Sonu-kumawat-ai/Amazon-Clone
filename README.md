@@ -1,2 +1,0 @@
-#Sonu
-# Amazon-Clone
